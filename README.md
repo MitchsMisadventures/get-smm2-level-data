@@ -6,9 +6,9 @@ With this easy to use R script, you will be able to get a `.csv` comprised of le
 
 1. Create a `.csv` file with a list of levels you want details from. To make it easy, I like to just make a list in Excel/Google Sheets. Keep in mind that the API does not accept level codes with dashes in the name. So for example instead of writing down the level as `LEV-ELC-ODE`, you need to write it down as `LEVELCODE`.
 
----
-
 ![image](https://github.com/user-attachments/assets/65868447-b06e-4699-a6a1-c2826f398425) 
+
+---
 
 2. Replace `Line 26` in the code with the name of the file you just created!
 
